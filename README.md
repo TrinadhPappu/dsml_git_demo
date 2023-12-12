@@ -1,2 +1,2 @@
 # dsml_git_demo
- hands on how to create git
+ hands on how to get started with git and github
